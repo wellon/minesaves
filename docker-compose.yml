@@ -1,0 +1,20 @@
+version: '3'
+services:
+ minecraft-server:
+   image: "itzg/minecraft-server"
+   container_name: "mc-pi-srv"
+   ports:
+     - "25565:25565"
+     - "4711:4711"
+   volumes:
+     - "./data:/data"
+     - "./plugins:/plugins"
+   environment:
+     EULA: "TRUE"
+   deploy:
+      resources:
+        limits:
+          memory: 3G
+   tty: true
+   stdin_open: true
+   restart: always
