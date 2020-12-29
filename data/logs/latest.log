@@ -22,3 +22,398 @@
 [00:29:32] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
 [00:29:32] [Server thread/INFO]: AnalD1gger left the game
 [00:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13095ms or 261 ticks behind
+[00:43:57] [User Authenticator #16/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
+[00:43:57] [Server thread/INFO]: AnalD1gger[/178.204.120.234:63351] logged in with entity id 109879 at (204.09052516736514, 69.0, 91.3904881680102)
+[00:43:57] [Server thread/INFO]: AnalD1gger joined the game
+[00:45:05] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
+[00:45:05] [Server thread/INFO]: AnalD1gger left the game
+[09:33:25] [User Authenticator #17/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
+[09:33:26] [Server thread/INFO]: AnalD1gger[/178.204.120.234:54456] logged in with entity id 110022 at (212.0046306447668, 69.0, 97.07444917009188)
+[09:33:26] [Server thread/INFO]: AnalD1gger joined the game
+[09:34:40] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
+[09:34:40] [Server thread/INFO]: AnalD1gger left the game
+[16:49:11] [User Authenticator #18/INFO]: UUID of player Netorch is 61518373-983a-4592-b0ed-549097570f91
+[16:49:11] [Server thread/INFO]: Netorch[/93.189.200.44:59396] logged in with entity id 110154 at (214.09726649670304, 69.0, 95.58893689370439)
+[16:49:11] [Server thread/INFO]: Netorch joined the game
+[16:53:52] [Server thread/INFO]: Netorch has made the advancement [We Need to Go Deeper]
+[17:08:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/112625, l='ServerLevel[world]', x=233.03, y=69.00, z=71.09]
+[17:34:32] [Server thread/INFO]: Netorch was shot by Skeleton
+[17:44:42] [User Authenticator #19/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
+[17:44:42] [Server thread/INFO]: AnalD1gger[/178.204.120.234:49797] logged in with entity id 116854 at (211.711860900027, 69.0, 95.13073425594683)
+[17:44:42] [Server thread/INFO]: AnalD1gger joined the game
+[17:50:46] [Server thread/INFO]: <AnalD1gger> охуенный скин
+[17:50:56] [Server thread/INFO]: <AnalD1gger> скинхедный скин
+[17:51:12] [Server thread/INFO]: <Netorch> ja ja
+[17:51:24] [Server thread/INFO]: <AnalD1gger> БЛЯ
+[17:51:28] [Server thread/INFO]: <AnalD1gger> ТАМ ЛАМ УБИВАЮТ
+[17:51:32] [Server thread/INFO]: <AnalD1gger> ЗА ДОМОМО
+[17:51:35] [Server thread/INFO]: <AnalD1gger> ГО СПАСАТЬ
+[17:51:58] [Server thread/INFO]: <Netorch> слава расе хуле
+[17:52:36] [Server thread/INFO]: <Netorch> мразь ебаная
+[17:52:41] [Server thread/INFO]: <Netorch> харкнула мне в ебало
+[17:52:48] [Server thread/INFO]: <Netorch> че по кайфу то и делает ежжи
+[17:53:13] [Server thread/INFO]: <Netorch> опа нихуя
+[17:53:43] [Server thread/INFO]: <AnalD1gger> Го в диск
+[17:54:02] [Server thread/INFO]: <AnalD1gger> Леха
+[17:54:05] [Server thread/INFO]: <AnalD1gger> Го диск
+[17:54:13] [Server thread/INFO]: <Netorch> го
+[18:05:58] [Server thread/INFO]: AnalD1gger has made the advancement [Voluntary Exile]
+[18:15:46] [Server thread/INFO]: AnalD1gger has made the advancement [Not Today, Thank You]
+[18:21:30] [User Authenticator #20/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
+[18:21:30] [Server thread/INFO]: chrispyapples[/5.3.150.77:52878] logged in with entity id 122812 at (205.51307649013683, 69.0, 91.23750001192093)
+[18:21:30] [Server thread/INFO]: chrispyapples joined the game
+[18:24:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/123622, l='ServerLevel[world]', x=237.05, y=69.00, z=62.11]
+[18:24:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/123620, l='ServerLevel[world]', x=236.15, y=69.00, z=62.13]
+[18:27:51] [Server thread/INFO]: chrispyapples was slain by Zombie
+[18:28:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[18:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[18:35:43] [Server thread/INFO]: Netorch burned to death
+[18:38:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[18:40:23] [Server thread/INFO]: Netorch tried to swim in lava
+[18:41:02] [Server thread/INFO]: Netorch was slain by Magma Cube
+[18:41:57] [Server thread/INFO]: Netorch tried to swim in lava
+[18:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[18:45:14] [Server thread/INFO]: Netorch burned to death
+[18:47:32] [Server thread/INFO]: chrispyapples was slain by Magma Cube
+[18:47:36] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[18:48:27] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[18:49:11] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[18:50:27] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[18:50:33] [Server thread/INFO]: AnalD1gger was slain by Zombified Piglin
+[18:53:04] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[18:53:15] [Server thread/INFO]: AnalD1gger tried to swim in lava
+[18:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[18:53:56] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[18:54:21] [Server thread/INFO]: Netorch tried to swim in lava
+[18:57:32] [Server thread/INFO]: Netorch fell from a high place
+[18:58:05] [Server thread/INFO]: chrispyapples was slain by Magma Cube
+[18:59:26] [Server thread/INFO]: AnalD1gger has made the advancement [What a Deal!]
+[18:59:46] [Server thread/INFO]: Netorch burned to death
+[19:03:31] [Server thread/INFO]: chrispyapples was slain by Piglin
+[19:05:07] [Server thread/INFO]: AnalD1gger burned to death
+[19:07:03] [Server thread/INFO]: Netorch was slain by Spider
+[19:07:57] [Server thread/INFO]: Netorch was slain by Piglin
+[19:08:28] [Server thread/WARN]: Netorch moved too quickly! -1.7513476288273857,0.0,9.858983086741567
+[19:08:28] [Server thread/WARN]: AnalD1gger moved too quickly! -0.04009722087408463,4.419999986886978,-8.983912654025861
+[19:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[19:08:45] [Server thread/INFO]: AnalD1gger was slain by Zombie
+[19:09:00] [Server thread/INFO]: Netorch tried to swim in lava
+[19:09:14] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/133089, l='ServerLevel[world]', x=186.75, y=62.36, z=86.25]
+[19:09:40] [Server thread/INFO]: Netorch was slain by Magma Cube
+[19:09:58] [Server thread/INFO]: AnalD1gger was slain by Magma Cube
+[19:10:24] [Server thread/INFO]: Netorch hit the ground too hard
+[19:11:17] [Server thread/INFO]: Netorch discovered the floor was lava
+[19:13:16] [Server thread/INFO]: Netorch tried to swim in lava
+[19:14:03] [Server thread/INFO]: AnalD1gger tried to swim in lava
+[19:15:18] [Server thread/INFO]: chrispyapples was shot by Skeleton
+[19:16:57] [Server thread/INFO]: AnalD1gger was slain by Zombified Piglin
+[19:18:42] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[19:20:18] [Server thread/INFO]: Netorch burned to death
+[19:22:35] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[19:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:27:16] [Server thread/INFO]: Netorch lost connection: Disconnected
+[19:27:16] [Server thread/INFO]: Netorch left the game
+[19:27:42] [User Authenticator #21/INFO]: UUID of player Netorch is 61518373-983a-4592-b0ed-549097570f91
+[19:27:42] [Server thread/INFO]: Netorch[/93.189.200.44:60296] logged in with entity id 136557 at (13.44173022813868, 76.0, -0.7786470742611751)
+[19:27:42] [Server thread/INFO]: Netorch joined the game
+[19:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:29:05] [Server thread/INFO]: chrispyapples was slain by Piglin
+[19:29:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/136923, l='ServerLevel[world]', x=237.17, y=69.00, z=70.52]
+[19:29:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/136923, l='ServerLevel[world]', x=237.17, y=69.00, z=70.52]
+[19:29:55] [Server thread/INFO]: Netorch was slain by Magma Cube
+[19:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[19:40:32] [Server thread/INFO]: chrispyapples lost connection: Disconnected
+[19:40:32] [Server thread/INFO]: chrispyapples left the game
+[19:45:19] [User Authenticator #22/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
+[19:45:19] [Server thread/INFO]: chrispyapples[/5.3.150.77:53361] logged in with entity id 140664 at (208.87189924897913, 69.0, 91.6198761523518)
+[19:45:19] [Server thread/INFO]: chrispyapples joined the game
+[19:46:28] [Server thread/INFO]: Netorch was poked to death by a sweet berry bush
+[19:47:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[19:48:43] [Server thread/WARN]: Netorch moved too quickly! -6.014476925435503,-1.0,-8.18674424158695
+[19:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
+[19:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[19:56:41] [Server thread/INFO]: Netorch was shot by Pillager
+[19:56:43] [Server thread/INFO]: chrispyapples has made the advancement [Voluntary Exile]
+[19:57:03] [Server thread/INFO]: chrispyapples was shot by Pillager
+[19:57:11] [Server thread/INFO]: Netorch has made the advancement [Voluntary Exile]
+[19:57:35] [Server thread/INFO]: Villager bfj['Villager'/141488, l='ServerLevel[world]', x=-28.17, y=68.00, z=-376.85] died, message: 'Villager was slain by Vindicator'
+[19:58:30] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[19:58:46] [Server thread/INFO]: Villager bfj['Cleric'/141518, l='ServerLevel[world]', x=-24.80, y=71.00, z=-353.16] died, message: 'Cleric was slain by Ravager'
+[19:58:50] [Server thread/WARN]: chrispyapples moved too quickly! -6.772247562361727,0.14168517272452164,-7.72529266053175
+[19:58:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Sword'/144544, l='ServerLevel[world]', x=6.26, y=73.00, z=-358.13]
+[19:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[19:59:18] [Server thread/INFO]: Netorch was shot by Pillager
+[19:59:41] [Server thread/INFO]: Netorch was slain by Ravager
+[19:59:42] [Server thread/WARN]: Netorch moved too quickly! -6.452875117199039,-6.9375,-66.6035489016761
+[19:59:45] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:00:01] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:00:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Sword'/144768, l='ServerLevel[world]', x=18.37, y=70.94, z=-362.84]
+[20:00:20] [Server thread/INFO]: Netorch was slain by Ravager
+[20:00:42] [Server thread/INFO]: <AnalD1gger> a6ss
+[20:00:47] [Server thread/INFO]: Netorch was slain by Ravager
+[20:01:11] [Server thread/INFO]: Netorch was slain by Ravager
+[20:01:21] [Server thread/INFO]: AnalD1gger has made the advancement [Ol' Betsy]
+[20:01:21] [Server thread/INFO]: AnalD1gger has made the advancement [Take Aim]
+[20:01:30] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[20:01:52] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[20:02:23] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:02:45] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[20:02:47] [Server thread/WARN]: AnalD1gger moved too quickly! -11.073638871068994,-2.0,-15.555283757546135
+[20:02:49] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:02:51] [Server thread/INFO]: Netorch was slain by Ravager
+[20:03:02] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:03:14] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:03:23] [Server thread/INFO]: Netorch was slain by Ravager
+[20:03:31] [Server thread/INFO]: AnalD1gger fell from a high place
+[20:03:54] [Server thread/INFO]: Netorch was slain by Ravager
+[20:04:12] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:04:15] [Server thread/INFO]: Netorch was slain by Ravager
+[20:04:25] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:04:38] [Server thread/INFO]: Netorch was slain by Ravager
+[20:04:40] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[20:04:43] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:04:57] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:05:00] [Server thread/INFO]: Netorch was slain by Ravager
+[20:05:27] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:05:30] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:05:50] [Server thread/INFO]: chrispyapples was shot by Skeleton
+[20:05:54] [Server thread/INFO]: Netorch was shot by Pillager
+[20:06:18] [Server thread/INFO]: Netorch was shot by Pillager
+[20:06:19] [Server thread/INFO]: AnalD1gger was shot by Skeleton
+[20:06:20] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:06:37] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:06:38] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:07:11] [Server thread/INFO]: chrispyapples was slain by Zombie
+[20:07:19] [Server thread/INFO]: AnalD1gger was shot by Pillager
+[20:07:25] [Server thread/INFO]: Netorch was shot by Pillager
+[20:07:38] [Server thread/INFO]: chrispyapples was slain by Zombie
+[20:08:32] [Server thread/INFO]: Villager bfj['Leatherworker'/141489, l='ServerLevel[world]', x=7.70, y=74.00, z=-357.51] died, message: 'Leatherworker was slain by Zombie'
+[20:08:37] [Server thread/INFO]: chrispyapples was shot by Pillager
+[20:08:42] [Server thread/INFO]: AnalD1gger was shot by Pillager
+[20:08:53] [Server thread/INFO]: Netorch was slain by Zombie
+[20:09:05] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:09:26] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:09:27] [Server thread/WARN]: Fetching packet for removed entity bcv['White Banner'/146460, l='ServerLevel[world]', x=36.26, y=64.00, z=-357.29]
+[20:09:28] [Server thread/INFO]: AnalD1gger was shot by Pillager
+[20:09:31] [Server thread/INFO]: Villager bfj['Farmer'/141506, l='ServerLevel[world]', x=32.90, y=66.94, z=-383.50] died, message: 'Farmer was slain by Zombie'
+[20:10:49] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:10:49] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:10:50] [Server thread/WARN]: Netorch moved too quickly! -8.92339678509651,-2.9375,-56.53550945714909
+[20:11:03] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:11:10] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:11:19] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:11:33] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:11:59] [Server thread/INFO]: AnalD1gger was slain by Vex
+[20:12:03] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:12:11] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:12:18] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:12:25] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:12:32] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:12:42] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:12:51] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:13:00] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:13:25] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:13:27] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:14:05] [Server thread/INFO]: Netorch fell from a high place
+[20:14:24] [Server thread/INFO]: chrispyapples was shot by Pillager
+[20:14:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Crossbow'/146778, l='ServerLevel[world]', x=24.88, y=65.94, z=-374.94]
+[20:15:00] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:15:18] [Server thread/INFO]: Netorch was slain by Vex
+[20:15:34] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:15:54] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:15:57] [Server thread/INFO]: Netorch has reached the goal [Postmortal]
+[20:16:00] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:16:15] [Server thread/INFO]: Netorch was shot by Pillager
+[20:16:25] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:16:49] [Server thread/INFO]: Netorch was slain by Vex
+[20:16:51] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:16:51] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:17:00] [Server thread/INFO]: Netorch was slain by Ravager
+[20:17:02] [Server thread/WARN]: Netorch moved too quickly! -8.199999988079071,1.0625,-22.235885981678223
+[20:17:19] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:17:20] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:17:23] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:17:35] [Server thread/INFO]: Netorch was slain by Ravager
+[20:17:39] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[20:17:45] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:17:53] [Server thread/INFO]: Netorch was slain by Ravager
+[20:18:08] [Server thread/INFO]: Netorch was slain by Ravager
+[20:18:09] [Server thread/INFO]: chrispyapples was slain by Vindicator
+[20:18:25] [Server thread/INFO]: Netorch was slain by Ravager
+[20:18:39] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:18:41] [Server thread/INFO]: Netorch was slain by Ravager
+[20:18:46] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:18:53] [Server thread/INFO]: AnalD1gger was slain by Vindicator
+[20:18:55] [Server thread/INFO]: Netorch was slain by Ravager
+[20:19:03] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:19:08] [Server thread/INFO]: Netorch was slain by Ravager
+[20:19:17] [Server thread/INFO]: Netorch was slain by Ravager
+[20:19:30] [Server thread/INFO]: Netorch was slain by Ravager
+[20:19:35] [Server thread/INFO]: chrispyapples was slain by Ravager
+[20:19:37] [Server thread/INFO]: AnalD1gger was slain by Ravager
+[20:19:45] [Server thread/INFO]: Netorch was slain by Ravager
+[20:20:08] [Server thread/INFO]: chrispyapples was shot by Pillager
+[20:21:58] [Server thread/INFO]: Netorch was slain by Vindicator
+[20:22:50] [Server thread/INFO]: Netorch has completed the challenge [Hero of the Village]
+[20:22:50] [Server thread/INFO]: chrispyapples has completed the challenge [Hero of the Village]
+[20:22:50] [Server thread/INFO]: AnalD1gger has completed the challenge [Hero of the Village]
+[20:37:02] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 0.3107440618314712
+[20:37:30] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 0.26270836568075495
+[20:38:31] [Server thread/INFO]: AnalD1gger has made the advancement [Best Friends Forever]
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 7.459834851630627,3.0,6.120728393653621
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 7.702031587802407,3.0,6.545558819787459
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 7.872547194255838,3.0,7.00078540676202
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 7.996335075889681,3.0,7.473622689137358
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.093910544366038,3.0,7.956051665559983
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.176866279287548,3.0,8.443693375838109
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.250788663440519,3.0,8.934283368651052
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.319877481702827,3.0,9.426450928666043
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.387590578057331,3.0,9.919303560857998
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.45516154694132,3.0,10.412442351904474
+[20:38:52] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 0.4163567948278626,1.0,10.004174962123273
+[20:38:52] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 0.5675039661867913,1.0,10.311821914489997
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.522656466249549,3.0,10.905734260848646
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.590110692946057,3.0,11.399108100127023
+[20:38:52] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 0.7113823825157795,1.0,10.62410876916448
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.657543145837355,3.0,11.89252577869371
+[20:38:52] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 0.7879686367485306,1.0,10.951761601819157
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.728567263899775,3.0,12.385445480699445
+[20:38:52] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 0.7765581822854557,1.0,11.278848788504547
+[20:38:52] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved too quickly! 8.818192914586048,3.0,12.874921234664328
+[20:38:52] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 0.6862272561842246,1.0,11.590555835411976
+[20:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20:40:29] [Server thread/INFO]: Villager bfj['Farmer'/141485, l='ServerLevel[world]', x=35.30, y=63.00, z=-396.30] died, message: 'Farmer was slain by Zombie'
+[20:40:34] [Server thread/INFO]: chrispyapples lost connection: Disconnected
+[20:40:34] [Server thread/INFO]: chrispyapples left the game
+[20:41:59] [User Authenticator #23/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
+[20:41:59] [Server thread/INFO]: chrispyapples[/5.3.150.77:53565] logged in with entity id 153015 at (69.5, 66.0, -371.5)
+[20:41:59] [Server thread/INFO]: chrispyapples joined the game
+[20:42:04] [Server thread/INFO]: AnalD1gger was slain by Zombie
+[20:42:05] [Server thread/INFO]: Netorch was slain by Zombie
+[20:43:56] [Server thread/WARN]: AnalD1gger moved too quickly! -0.7915601379183244,1.4199999868869781,9.899792371685578
+[20:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
+[20:50:22] [User Authenticator #24/INFO]: UUID of player ne0nbones is c5557512-d7d3-4492-aac6-5c0a66b053d8
+[20:50:22] [Server thread/INFO]: ne0nbones[/176.52.7.244:56490] logged in with entity id 155540 at (205.12384920703164, 69.0, 92.03591538175796)
+[20:50:22] [Server thread/INFO]: ne0nbones joined the game
+[20:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:58:16] [Server thread/INFO]: Netorch fell from a high place
+[21:00:15] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[21:05:00] [Server thread/INFO]: Netorch tried to swim in lava
+[21:07:07] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[21:07:16] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[21:08:10] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[21:08:30] [Server thread/INFO]: Netorch was slain by Zombified Piglin
+[21:09:53] [Server thread/INFO]: Netorch hit the ground too hard
+[21:13:08] [Server thread/INFO]: Netorch was shot by Pillager
+[21:13:16] [Server thread/INFO]: chrispyapples was shot by Pillager
+[21:13:21] [Server thread/INFO]: AnalD1gger was shot by Pillager
+[21:16:10] [Server thread/INFO]: chrispyapples was slain by Spider
+[21:16:22] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 0.3336929852794732
+[21:16:22] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 0.6127345668390944
+[21:22:13] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 0.3787856588824212
+[21:22:13] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 0.6645219242639939
+[21:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[21:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21:24:07] [Server thread/WARN]: AnalD1gger moved too quickly! -0.16586910474380367,-1.7684762024129839,10.054865290027898
+[21:24:07] [Server thread/WARN]: chrispyapples moved too quickly! 5.706106985466361,-5.768476202412984,5.88891233081473
+[21:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12919ms or 258 ticks behind
+[21:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[21:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[21:25:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[21:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:27:52] [Server thread/INFO]: chrispyapples was slain by Enderman
+[21:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:28:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
+[21:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[21:29:08] [Server thread/INFO]: AnalD1gger has made the advancement [A Terrible Fortress]
+[21:29:22] [Server thread/INFO]: chrispyapples was shot by Skeleton
+[21:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
+[21:29:51] [Server thread/INFO]: Netorch was slain by Wolf
+[21:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5344ms or 106 ticks behind
+[21:30:56] [Server thread/INFO]: AnalD1gger fell from a high place
+[21:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[21:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:32:48] [Server thread/INFO]: chrispyapples has made the advancement [A Terrible Fortress]
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 6.887836700458365,4.580587884171834,6.063282223166027
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.05902595898408,4.739282478887617,6.3191428999153345
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.222674971500908,4.814860769123612,6.559476507509885
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.379631025024537,4.810614158983611,6.603515625
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.530682099033527,4.729703713030418,6.603515625
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.680404276774709,4.57516531772923,6.603515625
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.829014734747716,4.349914638497964,6.603515625
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 7.976887622367997,4.056751880458506,6.603515625
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 8.124349836406338,5.0,6.607357034566462
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 8.412425598664356,5.0,6.646335945637702
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 8.723138151426156,5.0,6.702745925717352
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved too quickly! 9.045583115097884,5.0,6.770117136743124
+[21:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 1.394966655933736
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 1.7350419172495006
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 2.0772601363038707
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 2.4039083338546656
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 2.733025481316404
+[21:34:58] [Server thread/WARN]: Horse (vehicle of Netorch) moved wrongly! 3.0734380187200228
+[21:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[21:35:54] [Server thread/INFO]: ne0nbones has made the advancement [Suit Up]
+[21:37:10] [Server thread/INFO]: chrispyapples fell from a high place
+[21:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[21:41:00] [Server thread/INFO]: Netorch lost connection: Disconnected
+[21:41:00] [Server thread/INFO]: Netorch left the game
+[21:42:55] [Server thread/INFO]: AnalD1gger was slain by Wither Skeleton
+[21:43:45] [Server thread/INFO]: chrispyapples was slain by Piglin
+[21:44:36] [Server thread/INFO]: chrispyapples was slain by Zombified Piglin
+[21:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21:45:17] [Server thread/INFO]: chrispyapples was slain by Piglin
+[21:45:42] [Server thread/INFO]: AnalD1gger was slain by Piglin
+[21:47:16] [Server thread/INFO]: chrispyapples was fireballed by Ghast
+[21:47:16] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/170193, l='ServerLevel[world]', x=6.69, y=69.75, z=2.93]
+[21:47:16] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/170193, l='ServerLevel[world]', x=6.69, y=69.75, z=2.93]
+[21:47:16] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/170194, l='ServerLevel[world]', x=6.69, y=69.75, z=2.93]
+[21:47:16] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/170194, l='ServerLevel[world]', x=6.69, y=69.75, z=2.93]
+[21:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[21:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:01:01] [Server thread/INFO]: chrispyapples tried to swim in lava
+[22:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[22:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:13:18] [Server thread/INFO]: ne0nbones was blown up by Creeper
+[22:20:44] [Server thread/INFO]: chrispyapples fell from a high place
+[22:25:06] [Server thread/INFO]: chrispyapples was fireballed by Blaze
+[22:31:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181328, l='ServerLevel[world]', x=237.17, y=69.00, z=71.15]
+[22:39:41] [Server thread/INFO]: chrispyapples fell from a high place
+[22:40:46] [Server thread/INFO]: AnalD1gger was slain by Wither Skeleton
+[22:55:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=226, y=72, z=31} fx{x=228, y=72, z=33}
+[22:57:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/185635, l='ServerLevel[world]', x=234.47, y=38.66, z=94.73]
+[22:57:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/185635, l='ServerLevel[world]', x=234.47, y=38.66, z=94.73]
+[22:57:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/185635, l='ServerLevel[world]', x=234.47, y=38.66, z=94.73]
+[23:03:34] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
+[23:03:34] [Server thread/INFO]: AnalD1gger left the game
+[23:03:37] [User Authenticator #25/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
+[23:03:37] [Server thread/INFO]: AnalD1gger[/178.204.120.234:51865] logged in with entity id 186465 at (208.77521561599906, 73.0, 93.30000001192093)
+[23:03:37] [Server thread/INFO]: AnalD1gger joined the game
+[23:18:44] [Server thread/INFO]: ne0nbones has made the advancement [Enchanter]
+[23:20:25] [Server thread/WARN]: Horse (vehicle of AnalD1gger) moved wrongly! 0.3707035497900506
+[23:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[23:27:17] [Server thread/INFO]: ne0nbones lost connection: Disconnected
+[23:27:17] [Server thread/INFO]: ne0nbones left the game
+[23:27:20] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
+[23:27:20] [Server thread/INFO]: AnalD1gger left the game
+[23:27:21] [Server thread/INFO]: chrispyapples lost connection: Disconnected
+[23:27:21] [Server thread/INFO]: chrispyapples left the game
+[23:46:46] [User Authenticator #26/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
+[23:46:46] [Server thread/INFO]: AnalD1gger[/178.204.120.234:52366] logged in with entity id 191252 at (213.31905703793598, 69.0625, 92.06785075003539)
+[23:46:46] [Server thread/INFO]: AnalD1gger joined the game
+[23:46:58] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
+[23:46:58] [Server thread/INFO]: AnalD1gger left the game
+[23:52:00] [User Authenticator #27/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
+[23:52:00] [Server thread/INFO]: AnalD1gger[/178.204.120.234:52547] logged in with entity id 191287 at (213.31905703793598, 69.0625, 92.06785075003539)
+[23:52:00] [Server thread/INFO]: AnalD1gger joined the game
+[23:52:16] [Server thread/INFO]: AnalD1gger lost connection: Disconnected
+[23:52:16] [Server thread/INFO]: AnalD1gger left the game
