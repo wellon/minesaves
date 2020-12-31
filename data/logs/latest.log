@@ -1,55 +1,26 @@
-[22:56:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:56:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:56:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:56:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:56:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:56:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:56:32] [main/INFO]: Reloading ResourceManager: Default
-[22:56:33] [Worker-Main-2/INFO]: Loaded 7 recipes
-[22:56:34] [Worker-Main-2/INFO]: Loaded 927 advancements
-[22:56:37] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[22:56:37] [Server thread/INFO]: Loading properties
-[22:56:37] [Server thread/INFO]: Default game type: SURVIVAL
-[22:56:37] [Server thread/INFO]: Generating keypair
-[22:56:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:56:37] [Server thread/INFO]: Using epoll channel type
-[22:56:38] [Server thread/INFO]: Preparing level "world"
-[22:56:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:56:42] [User Authenticator #1/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:44] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[22:56:45] [Server thread/INFO]: Preparing spawn area: 81%
-[22:56:45] [Server thread/INFO]: Time elapsed: 7652 ms
-[22:56:45] [Server thread/INFO]: Done (7.817s)! For help, type "help"
-[22:56:45] [Server thread/INFO]: Starting remote control listener
-[22:56:45] [Server thread/INFO]: Thread RCON Listener started
-[22:56:45] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[22:56:47] [Server thread/INFO]: chrispyapples[/5.3.150.77:58023] logged in with entity id 233 at (-308.8093227342428, 45.0, -1444.4051004705136)
-[22:56:47] [Server thread/INFO]: chrispyapples joined the game
-[22:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[22:56:54] [Server thread/INFO]: chrispyapples lost connection: Disconnected
-[22:56:54] [Server thread/INFO]: chrispyapples left the game
-[22:56:59] [User Authenticator #2/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
-[22:56:59] [Server thread/INFO]: chrispyapples[/5.3.150.77:58028] logged in with entity id 426 at (-308.30000001192093, 45.0, -1444.699999988079)
-[22:56:59] [Server thread/INFO]: chrispyapples joined the game
-[22:57:08] [User Authenticator #3/INFO]: UUID of player AnalD1gger is 5a2769a0-47e0-4971-b6b3-b37738146b19
-[22:57:09] [Server thread/INFO]: AnalD1gger[/178.204.120.234:50925] logged in with entity id 668 at (238.4683948366729, 73.0, 80.09314879926777)
-[22:57:09] [Server thread/INFO]: AnalD1gger joined the game
-[22:57:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:57:16] [User Authenticator #4/INFO]: UUID of player ne0nbones is c5557512-d7d3-4492-aac6-5c0a66b053d8
-[22:57:16] [Server thread/INFO]: ne0nbones[/176.52.7.244:63961] logged in with entity id 768 at (226.7973493834738, 69.0, 71.64598217053216)
-[22:57:16] [Server thread/INFO]: ne0nbones joined the game
-[22:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7341ms or 146 ticks behind
-[22:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[00:09:10] [Server thread/INFO]: chrispyapples lost connection: Disconnected
+[00:09:10] [Server thread/INFO]: chrispyapples left the game
+[00:09:24] [User Authenticator #11/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
+[00:09:24] [Server thread/INFO]: chrispyapples[/5.3.150.77:58250] logged in with entity id 23486 at (189.81734574931323, 20.0, 119.09218554668837)
+[00:09:24] [Server thread/INFO]: chrispyapples joined the game
+[00:09:30] [Server thread/INFO]: ne0nbones lost connection: Disconnected
+[00:09:30] [Server thread/INFO]: ne0nbones left the game
+[00:09:32] [Server thread/INFO]: chrispyapples lost connection: Disconnected
+[00:09:32] [Server thread/INFO]: chrispyapples left the game
+[00:09:42] [User Authenticator #12/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
+[00:09:42] [Server thread/INFO]: chrispyapples[/5.3.150.77:58253] logged in with entity id 23516 at (189.30000001192093, 20.0, 118.82275643975763)
+[00:09:42] [Server thread/INFO]: chrispyapples joined the game
+[00:09:43] [User Authenticator #13/INFO]: UUID of player ne0nbones is c5557512-d7d3-4492-aac6-5c0a66b053d8
+[00:09:43] [Server thread/INFO]: ne0nbones[/176.52.7.244:64526] logged in with entity id 23531 at (206.69999998807907, 9.0, 163.69999998807907)
+[00:09:43] [Server thread/INFO]: ne0nbones joined the game
+[00:10:35] [Server thread/INFO]: chrispyapples was shot by Skeleton
+[00:20:47] [Server thread/INFO]: ne0nbones has made the advancement [Diamonds!]
+[00:21:09] [Server thread/INFO]: <chrispyapples> !kill
+[00:21:13] [Server thread/INFO]: <chrispyapples> kill
+[00:21:46] [Server thread/INFO]: * chrispyapples kill
+[00:23:40] [Server thread/INFO]: chrispyapples tried to swim in lava
+[00:23:47] [Server thread/INFO]: chrispyapples lost connection: Disconnected
+[00:23:47] [Server thread/INFO]: chrispyapples left the game
+[00:23:49] [User Authenticator #14/INFO]: UUID of player chrispyapples is a346acff-0470-48b2-b53b-29ed380ae73d
+[00:23:49] [Server thread/INFO]: chrispyapples[/5.3.150.77:58294] logged in with entity id 26262 at (189.63039487555133, 61.0, 105.81577504529344)
+[00:23:49] [Server thread/INFO]: chrispyapples joined the game
