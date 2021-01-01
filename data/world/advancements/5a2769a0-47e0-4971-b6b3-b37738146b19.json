@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-01-01 00:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-27 19:13:44 +0000"
@@ -531,6 +537,7 @@
       "minecraft:phantom": "2020-12-31 01:21:05 +0000",
       "minecraft:zombified_piglin": "2020-12-28 18:54:39 +0000",
       "minecraft:piglin": "2020-12-28 19:44:56 +0000",
+      "minecraft:silverfish": "2020-12-31 22:37:22 +0000",
       "minecraft:zombie": "2020-12-27 19:04:01 +0000",
       "minecraft:drowned": "2020-12-27 21:50:33 +0000",
       "minecraft:zombie_villager": "2020-12-27 23:27:38 +0000"
@@ -1154,6 +1161,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2020-12-27 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-12-31 23:56:35 +0000"
     },
     "done": true
   },
@@ -1879,6 +1892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-01-01 00:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-12-27 21:57:32 +0000"
@@ -2293,6 +2312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-01 00:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-12-27 23:53:54 +0000"
@@ -2356,6 +2381,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-28 00:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-01-01 00:36:35 +0000"
     },
     "done": true
   },
