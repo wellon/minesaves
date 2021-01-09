@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-08 17:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-12-27 18:56:47 +0000"
@@ -473,7 +479,10 @@
       "minecraft:slime": "2020-12-29 18:47:50 +0000",
       "minecraft:zombified_piglin": "2020-12-28 18:44:19 +0000",
       "minecraft:piglin": "2020-12-28 18:29:55 +0000",
-      "minecraft:zombie": "2020-12-27 18:53:06 +0000"
+      "minecraft:enderman": "2021-01-08 17:53:10 +0000",
+      "minecraft:zombie": "2020-12-27 18:53:06 +0000",
+      "minecraft:drowned": "2021-01-08 17:45:55 +0000",
+      "minecraft:zombie_villager": "2021-01-08 08:05:03 +0000"
     },
     "done": false
   },
@@ -1127,6 +1136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-08 17:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-12-27 20:00:51 +0000"
@@ -1268,9 +1283,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-08 17:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-12-28 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_the_recipe": "2021-01-08 17:04:21 +0000"
     },
     "done": true
   },
@@ -1313,6 +1340,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-12-27 20:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-08 17:01:48 +0000"
     },
     "done": true
   },
@@ -1436,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2021-01-08 08:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-12-27 20:00:51 +0000"
@@ -1493,6 +1532,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-28 18:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2021-01-08 17:04:24 +0000"
     },
     "done": true
   },
@@ -1862,6 +1907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2021-01-08 17:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-12-27 18:38:08 +0000"
@@ -2126,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-08 09:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-12-27 19:21:50 +0000"
@@ -2309,6 +2366,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2020-12-30 17:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-01-08 17:01:48 +0000"
     },
     "done": true
   },
